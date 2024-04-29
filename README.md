@@ -1,7 +1,7 @@
 # taiyo.ai_assignment_frontend
 <h1> Ritik Porwal </h1>
 
-  <h2> live link of website </h2>-<href src="https://662f6930827d0b0a07d9cc7a--roaring-tarsier-a33e5a.netlify.app/">
+  <h2> live link of website </h2>-<p>https://662f6930827d0b0a07d9cc7a--roaring-tarsier-a33e5a.netlify.app/</p> 
     <br/>
 <p>In this app, the user can add a contact by clicking on create contact button, and a pop-up will show one form, fill that form with name, last name, and status attributes.</p>
 
